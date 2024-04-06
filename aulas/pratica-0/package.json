@@ -1,0 +1,19 @@
+{
+  "name": "pratica-0",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo para C216-L1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-Prado-Dev/C216-L1-GEC1685.git"
+  },
+  "author": "Pedro Henrique do Prado Paiva GEC1685",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pedro-Prado-Dev/C216-L1-GEC1685/issues"
+  },
+  "homepage": "https://github.com/Pedro-Prado-Dev/C216-L1-GEC1685#readme"
+}
