@@ -29,7 +29,7 @@ server.get('/api/v1/params/:name', function(req, res, next) {
     next();
 });
 
-// rota para verificar query params
+// rota para verificar query params 
 server.get('/api/v1/query', function(req, res) {
     let name = req.query.name;
     res.setHeader('Content-Type', 'application/json');
