@@ -37,7 +37,7 @@ server.get('/api/v1/query', function(req, res) {
     res.send('Query passado na requisição: ' + name);
 });
 
-// Testando o POST na home 
+// Testando o POST na home  
 server.post('/', function(req, res) {
     //verificando se há body passado na requisição
     let name = defaultName;
