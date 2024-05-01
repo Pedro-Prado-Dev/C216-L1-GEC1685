@@ -1,7 +1,7 @@
 {
-  "name": "pratica-3",
+  "name": "pratica-4",
   "version": "1.0.0",
-  "description": "Middleware com restify.js",
+  "description": "Crud com restify.js e PostgreSQL",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -10,6 +10,7 @@
   "author": "Pedro Prado GEC-1685",
   "license": "ISC",
   "dependencies": {
-    "restify": "^8.5.1"
+    "restify": "^8.5.1",
+    "pg": "^8.11.5"
   }
 }
