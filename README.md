@@ -9,7 +9,7 @@
 - [Middleware](./aulas/pratica-1/middleware.md)
 
 ## [Prática-2](./aulas/pratica-2/) - Metodos HTTP e utilizando Restify
-- [Metodos HTTP](./aulas/pratica-2/metodos-http.md)
+- [Metodos HTTP](./aulas/pratica-2/metodos_http.md)
 
 ## [Prática-3](./aulas/pratica-3/) - Preparando um Middleware para CRUD
 - [CRUD Middleware](./aulas/pratica-3/crud-middleware.md)
@@ -17,8 +17,12 @@
 ## [Prática-4](./aulas/pratica-4/) - CRUD com postgreSQL
 - [CRUD PostgreSQL](./aulas/pratica-4/crud-postgresql.md)
 
+## [Prática-5](./aulas/pratica-5/) - Frontend com Flask
+- [Frontend Flask](./aulas/pratica-5/frontend-flask.md)
 # SERVICES
 ### [Backend](./backend/) - Backend API service
+
+### [Frontend](./frontend/) - Frontend service
 
 ## Documentações adicionais
 
