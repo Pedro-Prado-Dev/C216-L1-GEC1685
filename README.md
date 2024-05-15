@@ -9,7 +9,7 @@
 - [Middleware](./aulas/pratica-1/middleware.md)
 
 ## [Prática-2](./aulas/pratica-2/) - Metodos HTTP e utilizando Restify
-- [Metodos HTTP](./aulas/pratica-2/metodos-http.md)
+- [Metodos HTTP](./aulas/pratica-2/metodos_http.md)
 
 ## [Prática-3](./aulas/pratica-3/) - Preparando um Middleware para CRUD
 - [CRUD Middleware](./aulas/pratica-3/crud-middleware.md)
