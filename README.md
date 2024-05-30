@@ -1,4 +1,4 @@
-# C216-L1-2024.1 - Pedro Henrique do Prado Paiva GEC-1685
+# C216-L1-2024.1 - Lucas Ribeiro Garcia de Souza GES 134
 
 ## [Prática-0](./aulas/pratica-0/) - Introdução ao JS e ao Node.js
 - [javascript](./aulas/pratica-0/js.md)
@@ -9,7 +9,7 @@
 - [Middleware](./aulas/pratica-1/middleware.md)
 
 ## [Prática-2](./aulas/pratica-2/) - Metodos HTTP e utilizando Restify
-- [Metodos HTTP](./aulas/pratica-2/metodos_http.md)
+- [Metodos HTTP](./aulas/pratica-2/metodos-http.md)
 
 ## [Prática-3](./aulas/pratica-3/) - Preparando um Middleware para CRUD
 - [CRUD Middleware](./aulas/pratica-3/crud-middleware.md)
@@ -19,6 +19,9 @@
 
 ## [Prática-5](./aulas/pratica-5/) - Frontend com Flask
 - [Frontend Flask](./aulas/pratica-5/frontend-flask.md)
+
+## [Prática-6](./aulas/pratica-6/) - Estilização do Frontend com Bootstrap
+- [Bootstrap](./aulas/pratica-6/bootstrap.md)
 # SERVICES
 ### [Backend](./backend/) - Backend API service
 
@@ -35,3 +38,5 @@
 - [Download Postman](https://www.postman.com/downloads/)
 - [HTTP Methods](https://www.restapitutorial.com/lessons/httpmethods.html)
 - [Download Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/'1)
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
