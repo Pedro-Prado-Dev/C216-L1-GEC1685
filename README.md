@@ -1,4 +1,4 @@
-# C216-L1-2024.1 - Lucas Ribeiro Garcia de Souza GES 134
+# C216-L1-2024.1 - Pedro Henrique do Prado GEC 1685
 
 ## [Prática-0](./aulas/pratica-0/) - Introdução ao JS e ao Node.js
 - [javascript](./aulas/pratica-0/js.md)
